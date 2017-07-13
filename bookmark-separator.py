@@ -13,4 +13,4 @@ args = parser.parse_args()
 
 separator = create_separator(sys.argv[1])
 pyperclip.copy(separator)
-print("Copied " + separator + " to clipboard")
+print("Copied separator to clipboard:\n" + separator)
