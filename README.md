@@ -1,5 +1,5 @@
 # Bookmark Separator
-Generate a separatethis.com style title with a custom title.
+Generate a separatethis.com style bookmark separator with a custom title.
 
 # Usage
 Requires pyperclip for the script to copy the title to your clipboard.
